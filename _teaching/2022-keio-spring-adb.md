@@ -1,5 +1,5 @@
 ---
-title: "Advanced Course in Database Systems"
+title: "Advanced Course in Database Systems (2022 Spring)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-keio-spring-adb
