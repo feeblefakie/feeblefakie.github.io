@@ -80,10 +80,10 @@ analytics:
 author:
   name: "Hiroyuki Yamada"
   avatar: "profile.jpg"
-  bio: "CTO/CEO of Scalar, Inc. & Research fellow at the University of Tokyo"
+  bio: "CTO/CEO of Scalar, Inc. & Research Fellow at the University of Tokyo"
   location: "Japan"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=_u1f2eIAAAAJ&hl=en"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/hiroyuki-yamada-84506012/"
+  linkedin: "hiroyuki-yamada-84506012"
   orcid: "https://orcid.org/0000-0002-7137-0899"
   pinterest:
   soundcloud:
