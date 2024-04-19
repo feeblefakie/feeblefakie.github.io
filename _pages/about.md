@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+About Myself
 ======
-TODO
+I am Hiroyuki Yamada, CTO (and CEO) of [Scalar, Inc.](https://www.scalar-labs.com/).
+I am passionate about database systems and distributed systems, especially making transactions and query processing highly scalable and available.
+I got a Ph.D. from the University of Tokyo, where I worked on parallel database systems under the supervision of Prof. Masaru Kitsuregawa.
 
 News
 ======
-* TODO
+* Our paper titled "LakeHarbor: Making Structures First-Class Citizens in Data Lakes" has been accepted in ICDE'24!
 
 Research Interests
 ======
