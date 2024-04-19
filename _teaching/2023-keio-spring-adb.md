@@ -1,5 +1,5 @@
 ---
-title: "Advanced Course in Database Systems (2003 Spring)"
+title: "Advanced Course in Database Systems (2023 Spring)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-keio-spring-adb
