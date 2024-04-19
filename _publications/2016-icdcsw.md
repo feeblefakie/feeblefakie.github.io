@@ -3,7 +3,7 @@ title: "What’s So Different about Blockchain? — Blockchain is a Probabilisti
 collection: publications
 permalink: /publication/2016-icdcsw
 date: 2016-11-14
-venue: 'ICDCSW 2016'
+venue: 'ICDCSW - International Conference on Distributed Computing Systems Workshops'
 paperurl: 'https://ieeexplore.ieee.org/document/7756226'
 citation: 'K. Saito and H. Yamada. 2016.  What’s So Different about Blockchain? — Blockchain is a Probabilistic State Machine. In ICDCSW. 168-175.'
 ---

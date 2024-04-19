@@ -3,7 +3,7 @@ title: "Out-of-order Execution of Database Queries"
 collection: publications
 permalink: /publication/2020-pvldb
 date: 2020-08-01
-venue: 'PVLDB (VLDB)'
+venue: 'PVLDB (VLDB) - Proceedings of the VLDB Endowment'
 paperurl: 'https://dl.acm.org/doi/10.14778/3415478.3415571'
 citation: 'K. Goda, Y. Hayamizu, <u>H. Yamada</u>, and M. Kitsuregawa. 2020. Out-of-Order Execution of Database Queries. PVLDB 13, 12 (2020), 3489–3501.'
 ---
