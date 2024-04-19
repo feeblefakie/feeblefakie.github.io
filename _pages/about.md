@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Hiroyuki Yamada, CTO (and CEO) of [Scalar, Inc.](https://www.scalar-labs.com/)
 I am passionate about database systems and distributed systems, especially making transactions and query processing highly scalable and available.
-I got a Ph.D. from the University of Tokyo, where I worked on parallel database systems under the supervision of Prof. Masaru Kitsuregawa.
+I received my Ph.D. from the University of Tokyo, where I worked on parallel database systems under the supervision of Prof. Masaru Kitsuregawa.
 
 News
 ======
@@ -34,4 +34,10 @@ Teaching
 
 Awards
 ======
-* TODO
+* Best Paper Award in The IEICE Transactions on Information and Systems (2015)
+* Gold Prize in Rakuten Technology Award - Rakuten, Inc (2014)
+* Best Paper Award in DEIM (2014)
+* Best Ph.D. award in Information and Communication Engineering Department at The University of Tokyo (2014)
+* Best Poster Award in DEIM (2014)
+* Keio Univesity International Conference Encouragement Award (2009)
+* Certified Super Creator in MITOU Program of the Ministry of Economy, Trade and Industry (METI) (2008)
