@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Hiroyuki Yamada, CTO (and CEO) of [Scalar, Inc.](https://www.scalar-labs.com/)
+I am Hiroyuki Yamada, CTO and co-CEO of [Scalar, Inc.](https://www.scalar-labs.com/)
+I am the original creator of [ScalarDB](https://github.com/scalar-labs/scalardb), universal HTAP engine for diverse databases, and [ScalarDL](https://github.com/scalar-labs/scalardl), Byzantine-fault detection middleware for transactional databases.
 I am passionate about database systems and distributed systems, especially making transactions and query processing highly scalable and available.
 I received my Ph.D. from the University of Tokyo, where I worked on parallel database systems under the supervision of Prof. Masaru Kitsuregawa.
 
@@ -25,6 +26,13 @@ Selected Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Software
+======
+* [ScalarDB](https://github.com/scalar-labs/scalardb): Universal HTAP Engine for diverse databases
+* [ScalarDL](https://github.com/scalar-labs/scalardl): Byzantine-fault detection middleware for transactional databases
+* [Lux IO](https://luxio.sourceforge.net/) (archived): Yet another fast database manager
+* [Lux](https://luxse.sourceforge.net/) (archived): Distributed full-text search engine
 
 Teaching
 ======
